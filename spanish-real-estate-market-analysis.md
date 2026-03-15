@@ -66,67 +66,99 @@ PRICE INDEX (Rebased: 2010 = 100)
 
 ### Annual Transaction Volumes
 
-| Year | Transactions (INE) | YoY Change | Context |
-|------|-------------------|------------|---------|
-| 2010 | 491,287 | –17% | Post-crisis floor |
-| 2011 | 422,765 | –14% | Sovereign debt crisis |
-| 2012 | 364,600 | –14% | Worst year of crisis |
-| 2013 | 312,571 | –14% | Market bottom |
-| 2014 | 365,594 | +17% | First recovery signals |
-| 2015 | 445,600 | +22% | ECB QE kick-starts demand |
-| 2016 | 457,689 | +3% | Steady growth |
-| 2017 | 532,113 | +16% | Momentum building |
-| 2018 | 578,888 | +9% | Strong cycle |
-| 2019 | 564,521 | –2% | Brexit uncertainty, cooling |
-| 2020 | 415,748 | –26% | COVID shock |
-| 2021 | 565,523 | +36% | Pent-up demand release |
-| 2022 | 649,712 | +15% | Peak of post-pandemic boom |
-| 2023 | 583,083 | –10% | Rate hike suppression |
-| 2024 | 640,401 | +10% | Rebound; 3rd highest ever |
-| **2025E** | **~650,000** | **~+2%** | **Moderation forecast** |
+| Year | Transactions (INE/Notariado) | YoY Change | Context |
+|------|----------------------------|------------|---------|
+| **2007** | **~775,000** | — | **Historical peak (pre-crisis)** |
+| 2008 | ~564,000 | –27% | Bubble bursts |
+| 2009 | ~428,000 | –24% | Crisis deepens |
+| 2010 | ~491,000 | +15% | Temporary bounce (VAT deadline effect) |
+| 2011 | ~361,000 | –26% | Sharp renewed decline (sovereign debt crisis) |
+| 2012 | ~318,000 | –12% | Accelerating collapse |
+| **2013** | **~300,000** | **–6%** | **Market nadir (–61% from 2007 peak)** |
+| 2014 | ~365,000 | +22% | First recovery signals |
+| 2015 | ~401,000 | +10% | ECB QE kick-starts demand |
+| 2016 | ~403,000 | +0.5% | Consolidation |
+| 2017 | ~464,000 | +15% | Momentum building |
+| 2018 | ~515,000 | +11% | Best year since bubble |
+| 2019 | ~501,000 | –3% | Brexit uncertainty, slight cooling |
+| 2020 | ~415,000 | –17% | COVID shock |
+| 2021 | ~565,000 | +36% | Pent-up demand release |
+| 2022 | ~649,000–720,000 | +15–27% | Historic record |
+| 2023 | 583,650 | –10% | Rate hike suppression |
+| 2024 | 640,401–716,183 | +10–22% | Rebound; 3rd highest ever |
+| **Q1 2025** | **~184,000 (quarter)** | **+14.7% YoY** | **Near 2007 highs** |
 
-**Key insight:** 2024 was the **third-highest year in Spanish real estate history**, behind only 2007 and 2022. The market has structurally recovered despite two rate-shock episodes (2010–2013 sovereign debt, 2022–2023 ECB tightening).
+**New vs. Resale Split:**
+| Period | New Build % | Resale % |
+|--------|------------|---------|
+| 2007 (peak) | ~58% | ~42% |
+| 2014–2020 | ~15–17% | ~83–85% |
+| 2024 | ~21% | ~79% |
+| H1 2025 | ~22% | ~78% |
 
-### National Average Price per m² (2010–2025)
+New builds growing fastest: **+26% YoY in H1 2025** — but still structurally below demand.
+
+**Key insight:** 2024 was the **third-highest year in Spanish real estate history**, behind only 2007 and 2022. The transaction volume collapse from 2007 peak (775k) to 2013 bottom (300k) was **–61%** — one of the most severe in European history. The market has now fully recovered despite two rate-shock episodes.
+
+### National Average Price per m² (2007–2025)
+
+Sources: INE Housing Price Index (IPV), Tinsa IMIE, Sociedad de Tasación, Banco de España, Global Property Guide
 
 | Year | Price/m² (Avg.) | YoY Change | Notes |
 |------|----------------|------------|-------|
-| 2007 | ~€2,300/m² | — | Historical peak |
-| 2010 | ~€1,800/m² | –6% | Post-crash baseline |
-| 2011 | ~€1,680/m² | –7% | Accelerating decline |
-| 2012 | ~€1,560/m² | –7% | Forced bank sales |
-| 2013 | ~€1,400/m² | –10% | Absolute bottom |
-| 2014 | ~€1,380/m² | –1% | Stabilization |
-| 2015 | ~€1,420/m² | +3% | Turn of the tide |
-| 2016 | ~€1,490/m² | +5% | Madrid/BCN lead |
-| 2017 | ~€1,580/m² | +6% | Broad recovery |
-| 2018 | ~€1,680/m² | +6% | Strong growth |
-| 2019 | ~€1,760/m² | +5% | Approaching 2010 level |
-| 2020 | ~€1,740/m² | –1% | COVID minor impact |
-| 2021 | ~€1,790/m² | +3% | Strong recovery |
-| 2022 | ~€1,950/m² | +9% | Boom accelerates |
-| 2023 | ~€2,100/m² | +8% | Defies rate hikes |
-| 2024 | ~€2,350/m² | +11% | New all-time high |
-| **2025** | **~€2,517/m²** | **+7%** | **Record territory** |
+| **2007** | **~€2,101/m²** | — | **Historical nominal peak** |
+| 2008 | ~€1,980/m² | –5.8% | Crisis begins |
+| 2009 | ~€1,850/m² | –6.6% | — |
+| 2010 | ~€1,780–1,820/m² | –3% | Post-crash baseline |
+| 2011 | ~€1,720–1,760/m² | –3% | Sovereign debt crisis |
+| 2012 | ~€1,590–1,640/m² | –7% | Accelerating drop; bank repos |
+| 2013 | ~€1,470–1,530/m² | –7% | Approaching trough |
+| **2014** | **~€1,400–1,500/m²** | **–3%** | **Market bottom (–37–45% from peak)** |
+| 2015 | ~€1,470–1,530/m² | +2% | Stabilization; turn of the tide |
+| 2016 | ~€1,520–1,580/m² | +3% | Recovery confirmed |
+| 2017 | ~€1,580–1,640/m² | +5% | Broad recovery |
+| 2018 | ~€1,640–1,700/m² | +5% | Strong growth |
+| 2019 | ~€1,680–1,760/m² | +4% | Near 2010 level |
+| 2020 | ~€1,700–1,790/m² | +2% | COVID minimal impact |
+| 2021 | ~€1,730–1,820/m² | +3% | Remote work surge |
+| 2022 | ~€1,800–1,900/m² | +7% | Boom accelerates |
+| 2023 | ~€1,930–2,000/m² | +7% | Defies rate hikes |
+| 2024 | ~€2,050–2,093/m² | +8–10% | Near all-time high |
+| **2025 (Q3)** | **€2,153/m²** | **+12.7%** | **NEW ALL-TIME NOMINAL RECORD** |
 
-**Critical observation:** National prices in 2025 are **~12.5% above the 2007 peak**. The market has not just recovered — it has surpassed the pre-crisis boom level in nominal terms.
+**Peak-to-trough detail:**
+- **Nominal decline (2007→2014): –37% to –45%** — depending on source and segment
+- **Real (CPI-adjusted) decline: –35% to –49%**
+- **Boom that preceded the crash (1996–2007): +197% nominal / +117% real**
+- **Recovery from trough (2014→2024): +56% nominal** (still ~–31% in real CPI terms as of end 2024)
+- **2025: National prices finally surpass 2007 nominal peak** for the first time
+
+**Critical observation:** The BIS Real Residential Property Price Index for Spain stood at **101.07 in Q3 2025 (base 2010 = 100)** — meaning that in real inflation-adjusted terms, prices are only **marginally above 2010 levels** despite the nominal record. The boom is real but not as extreme as it appears at face value.
 
 ### Regional Price Comparison (2025)
 
+Sources: Idealista, Registradores Anuario 2024, Tinsa, Statista
+
 | Region/City | Price/m² (2025) | vs. National Avg. | YoY Growth |
 |-------------|----------------|-------------------|------------|
-| San Sebastián | €4,455/m² | +77% | +8% |
-| Madrid | €3,971/m² | +58% | +15% |
-| Barcelona | €3,842/m² | +53% | +10% |
-| Palma de Mallorca | €3,085/m² | +23% | +18% |
-| **Málaga** | **€2,757/m²** | **+10%** | **+13–15%** |
-| Bilbao | €2,680/m² | +7% | +7% |
-| Valencia | €2,100/m² | –17% | +16% |
-| Seville | €1,980/m² | –21% | +10% |
-| Zaragoza | €1,650/m² | –34% | +6% |
-| Spain average | €2,517/m² | — | +11% |
+| **San Sebastián (city)** | **€6,250/m²** | +190% | +12.2% |
+| **Madrid (city)** | **€5,677/m²** | +164% | +14% |
+| **Balearic Islands** | **€5,090/m²** | +136% | +11.6% |
+| **Barcelona (city)** | **€4,989/m²** | +132% | +9.2% |
+| **Madrid (region)** | **€4,343/m²** | +102% | +21.7% |
+| **Gipuzkoa (province)** | **€4,033/m²** | +87% | — |
+| **Málaga (province)** | **€3,982/m²** | +85% | **+17%** |
+| **Málaga (city asking)** | **€3,427–3,620/m²** | +59–68% | +16–17% |
+| Canary Islands | €3,084/m² | +43% | +13.4% |
+| Barcelona (province) | €2,994/m² | +39% | +9.4% |
+| Basque Country | €3,299/m² | +53% | +10.3% |
+| Andalusia (region avg) | ~€2,468/m² | +15% | +14.3% |
+| Valencia (region) | ~€2,061–2,468/m² | 0–15% | +14–16% |
+| Castilla-La Mancha | €987/m² | –54% | — |
+| Extremadura | €989/m² | –54% | — |
+| **Spain national average** | **€2,153/m²** | — | **+12.7%** |
 
-**Málaga is Spain's fastest-appreciating major market** and 5th most expensive provincial capital — having risen from 7th place just 3 years ago.
+**Málaga is Spain's fastest-appreciating major market** — ranking 4th most expensive province nationally, having climbed from 7th place just 3 years ago. Madrid prices are 20% above their 2008 peak; Málaga is 17%+ above its 2008 peak; national average first surpassed 2008 peak in 2025.
 
 ---
 
@@ -136,74 +168,103 @@ PRICE INDEX (Rebased: 2010 = 100)
 
 Málaga has followed Spain's national cycle but with **higher amplitude** on both the downside (crash was more severe in coastal tourist markets) and the upside (recovery has been stronger, driven by foreign buyers and lifestyle migration).
 
-### Málaga Province: Price Evolution (2010–2025)
+### Málaga City — Price Per Square Meter: Full History (2007–2025)
 
-| Year | Price/m² (Province) | YoY | Key Driver |
-|------|--------------------|----|------------|
-| 2007 | ~€2,000/m² | — | Peak of tourist/coastal boom |
-| 2010 | ~€1,500/m² | –7% | Post-crash; foreign buyers absent |
-| 2011 | ~€1,380/m² | –8% | Deepening crisis |
-| 2012 | ~€1,250/m² | –9% | Bank repos flooding market |
-| 2013 | ~€1,150/m² | –8% | Bottom; prices –42% from peak |
-| 2014 | ~€1,200/m² | +4% | First foreign buyers return |
-| 2015 | ~€1,350/m² | +13% | British/German buyers surge |
-| 2016 | ~€1,500/m² | +11% | Strong momentum |
-| 2017 | ~€1,700/m² | +13% | Málaga tech hub narrative begins |
-| 2018 | ~€1,900/m² | +12% | Major international attention |
-| 2019 | ~€2,050/m² | +8% | Back to 2007 levels |
-| 2020 | ~€2,000/m² | –3% | COVID pause |
-| 2021 | ~€2,150/m² | +8% | Remote work drives demand |
-| 2022 | ~€2,400/m² | +12% | Post-pandemic boom |
-| 2023 | ~€2,550/m² | +6% | Held despite rate hikes |
-| 2024 | ~€2,757/m² | +8% | Above pre-crisis peak |
-| **2025 (Q1)** | **~€3,100/m²** | **+13%** | **Fastest growth in Spain** |
+Sources: Idealista, Tinsa, Registradores, Realista, InvestRopa
 
-**Málaga city asking price (Idealista, March 2025): €3,427/m²**
+| Year | Price/m² (Málaga City) | YoY Change | Notes |
+|------|------------------------|------------|-------|
+| **2007** | **~€2,176/m²** | — | **Pre-crisis peak** |
+| 2010 | ~€1,900–2,000/m² | Declining | Post-bubble |
+| 2011 | ~€1,800–1,900/m² | –5% | — |
+| 2012 | ~€1,700–1,800/m² | –6% | — |
+| 2013 | ~€1,600–1,700/m² | –5% | Approaching trough |
+| **2014 (Sep.)** | **€1,521/m²** | — | **Confirmed trough (Idealista)** |
+| 2015 | ~€1,550–1,600/m² | +3% | Recovery begins |
+| 2016 | ~€1,650–1,700/m² | +5% | — |
+| 2017 | ~€1,750–1,850/m² | +8% | Tech hub narrative begins |
+| 2018 | ~€1,960–2,050/m² | +12.5% | Major international attention |
+| **2019** | **~€2,059/m²** | **+4%** | **Only 5.8% below 2007 peak** |
+| 2020 | ~€2,117/m² | +2.8% | COVID had minimal impact |
+| 2021 | ~€2,197/m² | +3.8% | 17.5% above 2014 trough |
+| 2022 | ~€2,500–2,700/m² | +15–20% | Surge begins |
+| 2023 | ~€2,900–3,100/m² | +15% | — |
+| 2024 | ~€3,100–3,427/m² | +15% | — |
+| **2025 (May)** | **~€3,427–3,620/m²** | **+17% YoY** | **20%+ above 2007 peak** |
+| 2025 (new builds, Q1) | €3,125/m² | +8.7% | Registradores data |
 
-### Málaga: Transaction Volumes (2010–2025)
+**Málaga Province — Key Historical Markers:**
 
-| Year | Transactions (Province) | Notes |
+| Year | Province Avg. Price/m² | Notes |
 |------|------------------------|-------|
-| 2010 | ~22,000 | Post-crisis low |
-| 2012 | ~15,000 | Absolute bottom |
-| 2015 | ~25,000 | Recovery underway |
-| 2017 | ~33,000 | Boom acceleration |
-| 2019 | ~37,000 | Pre-COVID peak |
-| 2020 | ~28,000 | COVID impact |
-| 2021 | ~38,000 | Pent-up demand |
-| 2022 | ~44,000 | Record high |
-| 2023 | ~40,000 | Slight pullback |
-| 2024 | **~47,000** | **New record** |
+| 2014 | ~€1,400–1,500/m² | Trough zone |
+| 2019 | ~€2,000–2,100/m² | Recovery zone |
+| 2022 | ~€2,500–2,800/m² | Record pace |
+| 2023 | ~€2,900–3,100/m² | — |
+| 2024 | ~€3,200–3,500/m² | — |
+| **Aug 2025** | **€3,842/m²** | **+13.8% YoY; all-time provincial record** |
+| Costa del Sol avg (2025) | €5,032/m² | Premium coastal premium |
+
+**10-year cumulative price increase in Málaga: approximately +110% nominal / +65% real**
+**From 2014 trough to 2025: +138% nominal** — more than doubled in 11 years.
+
+### Málaga Province: Transaction Volumes (2018–2025)
+
+| Year | Transactions (Province) | YoY | Notes |
+|------|------------------------|-----|-------|
+| 2018 | **32,438** | +5% | Record at the time |
+| 2019 | ~31,000–32,000 | –2% | Pre-COVID |
+| **2020** | **23,265** | **–27%** | COVID-19 lockdowns |
+| 2021 | ~33,139 | +42% | Recovery |
+| **2022** | **~46,000+** | **+39%** | **All-time record; 30% of all Andalusia transactions** |
+| **2023** | **~34,014** | **–26%** | Rate impact; steepest decline in Andalusia |
+| 2024 | 35,385 | +4% | Gradual recovery |
+| **Q2 2025** | **8,639 (quarter alone)** | **+7% YoY** | Continued growth |
+
+**43% of purchases in Málaga in 2024 made with cash (no mortgage)** — among the highest in Spain, reflecting a market dominated by wealthy foreign and domestic investors.
 
 **36.8 sales per 1,000 listed properties** — 2nd highest absorption rate in Spain (vs. national avg. 25.5). Málaga is a **seller's market with near-zero inventory overhang**.
 
-### Málaga City: Key Neighborhoods — Price & Growth (2025)
+### Málaga City: Key Neighborhoods — Price & Growth (2024–2025)
 
-| Neighborhood | Price/m² | YoY Growth | Yield | Profile |
+Sources: Registradores, Idealista, Tinsa, InvestRopa, Drumelia
+
+| Neighborhood | Price/m² | YoY Growth | Rental Yield | Profile |
 |---|---|---|---|---|
-| Centro Histórico | >€4,000/m² | +18% | 3.5% | Culture/tourism hub |
-| Playa de la Malagueta | ~€4,600/m² | +20% | 3.8% | Beachfront premium |
-| Teatinos-Universidad | €3,517/m² | +23% | 4.5% | Tech/university |
-| Cruz de Humilladero | €2,860/m² | +15% | 6.0% | Best yield zone |
-| Pedregalejo | ~€2,500/m² | +14% | 7.9% CAGR | Coastal/bohemian |
-| El Palo | ~€2,200/m² | +12% | 5.5% | Eastern beach |
-| Ciudad Jardín | ~€2,400/m² | +17% | 5.2% | Family residential |
-| Palma-Palmilla | ~€1,900/m² | +25% | 6.5% | Emerging/gentrifying |
+| **Centro Histórico** | **€4,505–€5,421/m²** | +18% | 3.5% | Most expensive; tourist let moratorium Jan 2025 |
+| **Soho (Arts District)** | **€4,009/m²** | +20% | 3.8% | Cultural transformation hub |
+| **Playa de la Malagueta** | ~€3,500–4,000/m² | +18% | 3.8% | Beachfront; moratorium zone |
+| Teatinos-Universidad | €3,517/m² | +23% | 4.5% | Tech/university hub; fastest growth |
+| Cruz de Humilladero | €2,860/m² | +15% | **6.0%** | Best long-term yield zone |
+| Pedregalejo | ~€2,500/m² | +14% | **7.9% CAGR (5yr)** | Coastal/bohemian; best long-term capital gain |
+| El Palo | ~€2,800/m² | +12% | 5.5% | Eastern beach |
+| Málaga Este | ~€2,500–3,000/m² | +13% | **11.1% CAGR (5yr)** | Highest neighborhood long-term CAGR |
+| Ciudad Jardín | ~€2,400/m² | +17% | 8%+ CAGR (5yr) | Family residential; strong growth |
+| **Palma-Palmilla** | ~€1,800–2,200/m² | **+25%** | **9.7% CAGR (5yr)** | Emerging/gentrifying; best yield CAGR |
+
+**Short-term rental (tourist license) moratorium (Jan 14, 2025):** Applies to 43 neighborhoods including Centro, Soho, Malagueta, Pedregalejo, El Palo. City-wide 3-year moratorium on new tourist licenses from March 2025. Only properties with independent street entrance can obtain new licenses — effectively caps new STR supply.
+
+**Investment implication:** Palma-Palmilla and Málaga Este offer the best combination of still-affordable entry price + highest yield trajectory, but require tolerance for gentrification risk. Cruz de Humilladero is the sweet spot for income-focused investors.
 
 ### Costa del Sol: Key Markets (2024–2025)
 
 | Market | Avg. Price/m² | YoY Growth | Foreign Buyer % | Notes |
 |---|---|---|---|---|
-| Marbella | €4,812/m² | +13.7% | 80–90% | Prime luxury |
-| Benalmádena | ~€3,200/m² | +20% | 55% | Spill-over from Málaga |
+| **Marbella** | **€4,961–5,568/m² (asking)** | +13.7% | 80–90% | Prime luxury; €4,228–4,509 transaction |
+| **Marbella Golden Mile** | **€6,329/m²** | +15% | 90%+ | Ultra-prime; Puente Romano avg €24,020/m² |
+| **Sierra Blanca** | Up to **€16,000/m²** | — | 95%+ | Ultra-luxury |
+| **Puerto Banús** | Avg deal: **€2.77M** | — | 90%+ | Luxury apartments |
+| **Benahavís** | **€4,593/m²** | +9.3% | 63%+ | La Zagaleta from €4M+ |
+| **Estepona** | **€3,582/m²** | +11.6% | 65% | Most accessible in Golden Triangle |
+| Benalmádena | ~€3,200/m² | +20% | 55% | Spill-over from Málaga city |
 | Fuengirola | ~€2,900/m² | +20% | 50% | Mid-market growth |
 | Torremolinos | ~€2,600/m² | +18% | 45% | Tourism + residential |
-| Estepona | ~€3,500/m² | +15% | 65% | Golf + lifestyle |
 | Mijas | ~€2,800/m² | +14% | 60% | Expat favourite |
-| Nerja | ~€2,400/m² | +12% | 55% | East coast charm |
+| Nerja | ~€3,000–3,500/m² | +12% | 55% | East coast charm |
 | Ronda | ~€1,200/m² | +8% | 25% | Inland, authentic |
 
-**142 luxury sales (>€1M) in Marbella in 2024 alone (+19% YoY)**. The Golden Mile and La Zagaleta continue to attract ultra-HNW buyers at €5M–€20M+ per property.
+**Golden Triangle (Marbella + Benahavís + Estepona) — 2024 aggregate:** 8,708 sales (Marbella 4,745; Estepona 3,162; Benahavís 801). Foreign buyers: **63.1%** of all transactions.
+**142 luxury sales (>€1M) in Marbella in 2024 alone (+19% YoY)**. The Golden Mile and La Zagaleta continue to attract ultra-HNW buyers at €5M–€20M+ per property. **Marbella homes now average ~3x Spain's national average price.**
 
 ### Málaga's Transformation: The Tech Narrative
 
@@ -271,22 +332,33 @@ This transformation is the **single biggest structural demand driver** for Mála
 
 ### Mortgage Originations: Annual Volume
 
-| Year | New Mortgages | YoY | Total Volume (€bn) |
-|------|-------------|-----|-------------------|
-| 2010 | 533,527 | –23% | ~€90bn |
-| 2012 | 274,715 | –29% | ~€40bn |
-| 2013 | 200,044 | –27% | ~€28bn (bottom) |
-| 2015 | 284,044 | +19% | ~€36bn |
-| 2017 | 310,096 | +10% | ~€46bn |
-| 2018 | 352,987 | +14% | ~€54bn |
-| 2019 | 369,879 | +5% | ~€56bn |
-| 2021 | 438,703 | +23% | ~€70bn |
-| 2022 | 479,247 | +9% | ~€78bn |
-| 2023 | 393,081 | –18% | ~€62bn |
-| 2024 | ~436,000 | +11% | ~€70bn |
-| **2025** | **~480,000E** | **~+10%** | **~€78bnE** |
+Sources: INE Mortgage Statistics, EMF Hypostat 2025, Banco de España
 
-**August 2025 alone:** €5.6bn in new mortgages — **+39% vs. August 2024**, indicating a strong recovery as Euribor falls.
+| Year | New Mortgages | YoY | Volume (€bn) | Notes |
+|------|-------------|-----|-------------|-------|
+| **2003–2010 avg.** | **~1,000,000/year** | — | **~€126.6bn/year** | **Bubble era peak** |
+| **2010** | ~600,000–700,000 | – | ~€70–80bn | — |
+| 2011 | ~400,000–420,000 | –35% | ~€50bn | Sharp decline |
+| 2012 | ~340,000–360,000 | –14% | ~€43bn | — |
+| **2013** | **~290,000–310,000** | **–14%** | **~€35bn** | **Bottom** |
+| 2014 | ~310,000–330,000 | +6% | ~€37bn | Stabilization |
+| 2015 | ~310,000–330,000 | 0% | ~€37bn | — |
+| 2016 | ~330,000–340,000 | +3% | ~€38bn | — |
+| 2017 | ~340,000–360,000 | +6% | ~€43bn | — |
+| 2018 | ~360,000–380,000 | +7% | ~€49bn | — |
+| 2019 | ~360,000–380,000 | 0% | ~€50bn | — |
+| 2020 | 337,752 | –11% | ~€41bn | COVID impact |
+| 2021 | 418,058 | +24% | ~€55bn | Rebound |
+| 2022 | 464,107 | +11% | ~€68bn | Peak post-crisis |
+| **2023** | **381,560** | **–18%** | **€54.2bn** | **Rate shock; avg. loan: €142,074** |
+| 2024 | 423,741 | +11% | ~€68bn | Highest since 2010 |
+| **2025 (run rate)** | **+22.9% YoY** | — | — | **Strong acceleration** |
+
+**Key data points:**
+- 2011–2024 annual average: ~330,000 mortgages/year vs. **1,000,000/year** in bubble era — the structural deleveraging is massive
+- **August 2025 alone: €5.6bn** in new mortgages (+39% vs. August 2024)
+- Outstanding residential mortgage stock: **€510.79bn (Sep 2025)** — up 3% YoY
+- Mortgage market as % of GDP: 60% (2010) → 44.9% (2020) → **~30% (2024)** — decade of deleveraging
 
 ### Bank Market Share in Mortgages (2024–2025)
 
@@ -324,14 +396,19 @@ Spain's banking system has done a **remarkable job cleaning up its real estate b
 
 ### The Agency Landscape
 
-Spain's real estate agency market is **extremely fragmented** — one of the most fragmented in Europe. There are approximately **100,000 registered real estate agents** nationally, operating through:
+Spain's real estate agency market is **extremely fragmented** — one of the most fragmented in Europe.
 
-- ~50,000+ registered agencies (many micro-businesses)
-- Franchise networks (RE/MAX, Century 21, Tecnocasa)
-- International luxury brands (Engel & Völkers, Coldwell Banker, Knight Frank)
-- Online/hybrid brokerages (Housell, Housfy, Huspy)
+**Market structure (2024, DBK Observatorio Sectorial):**
+- **Total agencies: 58,235–66,200+** (growing rapidly; 59,000+ new agencies created since 2022; 15,000+ in H1 2025 alone)
+- **65% have zero employees** (sole traders/autónomos)
+- **23% have 1–2 employees**
+- **88% of all firms have ≤2 employees** — extreme micro-fragmentation
+- **Sector revenue: €8.9 billion (2024), +18% YoY**
+- Geographic concentration: Catalonia 20%, Madrid 16%, Valencia 11%
 
-**Concentration:** The top 5 franchise networks represent ~8–10% of total transactions. No single company has more than 3–4% market share nationally. **This fragmentation is the key opportunity for platform aggregators like Huspy.**
+**Concentration:** The top 5 franchise networks represent ~8–10% of total transactions. No single company has more than 3–4% national market share. **This extreme fragmentation is the defining opportunity for platform aggregators like Huspy.**
+
+**No mandatory national licensing requirement** — anyone can open an agency, which drives both fragmentation and quality variance.
 
 ### Key Players
 
@@ -642,7 +719,21 @@ Real rental prices have risen **4–5x faster than general inflation** over a de
 
 ### Rental Market Supply-Demand Imbalance
 
-**The structural problem:** Spain builds **~95,000 new homes/year** but forms **~246,000 new households/year**. The gap: **~150,000 units of unmet demand annually**. This structural shortage underpins both sale price and rental price growth — and shows **no sign of resolution before 2028–2030**.
+### New Construction / Building Permits
+
+Sources: Ministerio de Transportes, Trading Economics, EMF Hypostat, CaixaBank Research
+
+| Period | Annual Housing Starts | Notes |
+|--------|----------------------|-------|
+| **1995–2008 avg.** | **~445,000/year** | **Construction boom peak** |
+| **2009–2021 avg.** | **~64,000/year** | **–86% collapse from boom peak** |
+| 2023 | ~110,000 permits | Still 65% below 1990s average |
+| Q2 2025 | 34,740 (quarter) | — |
+| Q3 2025 | 29,820 (quarter) | Some quarterly volatility |
+
+**Banco de España estimates Spain lacks 600,000 properties** to cover new household formation since 2021. Current completions (~95,000–110,000/year) are **~40% below the 150,000+ needed annually**.
+
+**The structural problem:** Spain builds **~95,000–110,000 new homes/year** but forms **~246,000 new households/year**. The annual gap of **~150,000 units** underpins both sale price and rental price growth — and shows **no sign of resolution before 2028–2030**. In Málaga, ~8,000 new homes expected in 2025 (+10%), but still far below demand from domestic buyers and the 14M+ annual tourists.
 
 ---
 
@@ -650,20 +741,26 @@ Real rental prices have risen **4–5x faster than general inflation** over a de
 
 ### Historical Evolution of Foreign Buyers in Spain
 
+Sources: Colegio de Registradores, Registradores Anuario 2024
+
 | Year | Foreign Purchases | % of Total | Notes |
 |------|-----------------|------------|-------|
-| 2007 | ~80,000 | ~8% | Pre-crisis peak |
-| 2010 | ~35,000 | ~7% | Crisis low |
-| 2013 | ~53,000 | ~17% | Recovery; foreign buyers first |
-| 2015 | ~75,000 | ~17% | Surge |
-| 2017 | ~90,000 | ~17% | Near record |
-| 2019 | ~87,000 | ~15% | Pre-COVID |
-| 2020 | ~45,000 | ~11% | Pandemic collapse |
-| 2021 | ~70,000 | ~12% | Sharp recovery |
-| 2022 | ~94,500 | ~15% | All-time record |
-| 2023 | ~87,500 | ~15% | Slight pullback |
+| 2010 | ~20,000 | ~4–5% | Crisis low; foreign buyers absent |
+| 2013 | ~25,000 | ~7–8% | Golden Visa launched (Sep 2013) |
+| 2015 | ~40,000 | ~10% | Recovery attracts foreign capital |
+| 2018 | ~62,000 | ~12% | — |
+| 2019 | ~65,000 | ~12–13% | Pre-COVID high |
+| 2020 | ~46,000 | ~11% | Pandemic restriction |
+| 2021 | ~68,000 | ~12% | Rebound |
+| **2022** | **~134,000** | **~13–14%** | **All-time volume record** |
+| 2023 | ~87,000 | ~15% | — |
 | **2024** | **~93,000** | **~14.6%** | **Near record** |
-| 2025E | ~90,000 | ~14% | Golden Visa end = minimal impact |
+| **Q1 2025** | **21,525 (quarter alone)** | ~15–20% | **Record quarterly high** |
+| 2025E | ~90,000+ | ~14–15% | Golden Visa end = minimal impact |
+
+**Golden Visa context:** Program terminated for real estate purchases on **April 3, 2025**. Had issued >6,200 visas via real estate; 96% of all Golden Visa applicants chose the real estate route. However, minimal market impact expected — most foreign buyers were lifestyle/investment motivated, not visa-seeking.
+
+**Top buying nationalities (national, H1 2025):** British 3,917 purchases; Germans 3,159; Dutch (+37% YoY growth); Moroccans, Romanians, French.
 
 ### Foreign Buyer Share by Region (Q4 2024)
 
@@ -878,39 +975,58 @@ CONTRIBUTION MARGIN: ~€4,000–5,000 (65–75%)
 ### National Spain (2025)
 | Metric | Value |
 |--------|-------|
-| Annual transactions | ~640,000–716,000 |
-| National avg. price/m² | €2,517 |
-| YoY price growth 2024 | +11.2% |
-| Euribor (mid-2025) | ~2.1% |
-| New mortgage rate | 2.5–3.0% fixed |
+| Annual transactions (2024) | 640,401–716,183 |
+| Historical peak (2007) | ~775,000 |
+| Historical trough (2013) | ~300,000 (–61% from peak) |
+| National avg. price/m² (Q3 2025) | **€2,153** (new all-time nominal record) |
+| YoY price growth (2025) | +12.7% |
+| 2007→2014 price decline | –37% to –45% nominal |
+| 2014→2025 price recovery | +56% nominal |
+| Euribor (mid-2025) | ~2.1% (down from 3.86% in 2023) |
+| New mortgage rate (2025) | 2.5–3.0% fixed |
+| Fixed/variable split | 70% fixed / 30% variable |
+| Mortgage market as % of GDP | ~30% (down from 60% in 2010) |
 | Avg. discount asking→sale | 6.2% (lowest since 2007) |
 | Foreign buyer share | 14.6% of all transactions |
+| Total real estate agencies | 58,235–66,200+ (88% have ≤2 employees) |
 | Agency commission | 3–6% + VAT (seller pays) |
 | Buyer transaction overhead | ~10–12% |
-| PropTech companies | 466 |
+| New build vs. resale | 22% / 78% |
 
 ### Málaga (2025)
 | Metric | Value |
 |--------|-------|
-| City avg. price/m² | €2,757 (transaction) / €3,427 (asking) |
-| Province price growth | +13–15% YoY |
+| City trough price (Sep 2014) | **€1,521/m²** |
+| City current price (asking) | **€3,427–3,620/m²** |
+| City pre-crisis peak (2007) | **€2,176/m²** |
+| City current vs. 2007 peak | **+57–66% above** |
+| City current vs. 2014 trough | **+125–138% above** |
+| Province price growth (2025) | +13–17% YoY |
+| Province avg. price (Aug 2025) | **€3,842/m²** |
 | Foreign buyer share | 32–35% of province |
+| Cash buyer share | 43% (no mortgage) |
 | Days on market | 28% sell within 30 days |
 | Absorption rate | 36.8 per 1,000 (2nd in Spain) |
-| Avg. rental price | €15.60/m²/month |
+| Avg. rental price | **€15.60/m²/month** |
 | Avg. rental yield | 4.65% gross |
-| Short-term rental yield | 8–12% gross |
-| Airport passengers | 25M (2024, record) |
-| Marbella avg. price | €4,812/m² |
+| Top neighborhood yield CAGR | Málaga Este: **11.1% (5yr)** |
+| Short-term rental: annual revenue | **€36,000** avg.; ADR €123; 84% occupancy |
+| Short-term rental yield | 6–12% gross |
+| Airport passengers (2024) | **25M (record; +11.5%)** |
+| Annual tourists | 14.4M (2024) |
+| Marbella avg. price (asking) | **€4,961–5,568/m²** |
+| Marbella Golden Mile | **€6,329/m²** |
+| Marbella luxury sales (>€1M) | 142 in 2024 (+19% YoY) |
 
-### The 15-Year Arc (2010 = baseline)
-| Moment | Context | Price Index |
-|--------|---------|-------------|
-| 2010 (baseline) | Post-crisis floor | 100 |
-| 2013 (bottom) | –43% from 2007 peak | 78 |
-| 2019 (parity) | Back to 2010 levels | 100 |
-| 2024 (new high) | All-time record | 137 |
-| 2025 (now) | +50% above 2010 | ~150 |
+### The 15-Year Arc
+| Moment | Context | Key Data |
+|--------|---------|----------|
+| **2007** | Pre-crisis peak | 775k transactions; €2,101/m² national |
+| **2013** | National transaction bottom | ~300k transactions (–61% from peak) |
+| **2014** | Price bottom | €1,400–1,500/m² national; **€1,521/m² Málaga** |
+| **2019** | Near full recovery | Back to pre-COVID levels |
+| **2022** | Post-pandemic record | 649k–720k transactions |
+| **2025** | New all-time highs | €2,153/m² national (new record); Málaga +57% above 2007 |
 
 ---
 
