@@ -562,6 +562,236 @@ add_pipeline_stage(doc, 10, 'Registration, Taxes & Post-Purchase Setup', 'Weeks 
     ['ITP 7% Andalusia — pay within 30 days', 'Land Registry — 15–30 working days', 'Transfer utilities', 'Investment: apply for VFT rental licence'])
 
 # ══════════════════════════════════════════════════════════════════════════════
+# SECTION E — AGENCY ECOSYSTEM & OFFICE STRUCTURE
+# ══════════════════════════════════════════════════════════════════════════════
+doc.add_page_break()
+add_heading(doc, 'SECTION E — AGENCY ECOSYSTEM & OFFICE STRUCTURE', 1)
+add_body(doc, 'How the real estate agency business actually works: the mechanics of commission flow, every professional involved in a transaction, pricing methodology, and the full organisational structure of an agency office.', italic=True, color=MUTED)
+
+# ── E1. HOW THE AGENCY BUSINESS MODEL WORKS ──────────────────────────────────
+add_heading(doc, 'E1. How the Agency Business Model Works', 2)
+
+add_heading(doc, 'Commission Flow: Who Pays What', 3)
+add_body(doc, 'In Spain the agency commission is paid exclusively by the seller — buyers pay zero agency fees. The full flow from sale price to net revenue is as follows:')
+add_data_table(doc,
+    ['Step', 'Actor', 'Pays / Receives', 'Amount (example: €280k sale)', 'Notes'],
+    [
+        ['1', 'Buyer', 'Pays sale price', '€280,000', 'Plus ~10–12% in taxes & fees (ITP, notary, registry)'],
+        ['2', 'Seller → Agency', 'Pays commission', '€11,200 (4%)', 'Commission + 21% IVA on top → seller pays €13,552 total'],
+        ['3', 'IVA on commission', 'Seller pays to Hacienda', '€2,352 (21% IVA)', 'Agency collects and remits. Often missed in seller net calculations'],
+        ['4', 'Franchise fee / brand royalty', 'Agency pays to franchise', '€1,120 (10% of gross)', 'RE/MAX, E&V, Century 21 all charge this. Independents keep full gross'],
+        ['5', 'Agent split', 'Agency pays to agent', '€7,840 (70% split)', 'Typical range: 50–80% to agent depending on seniority and model'],
+        ['6', 'Huspy net (agency)', 'Retained after split', '€3,360', 'Before platform costs, lead gen, compliance'],
+        ['7', 'Mortgage fee (bank referral)', 'Bank pays Huspy', '+€1,000–1,500', '40% of deals attach a Huspy mortgage — zero extra agent cost'],
+        ['8', 'Net contribution margin', 'Huspy retains', '~€3,500–4,500', 'Per transaction before overhead allocation'],
+    ],
+    col_widths=[0.6, 3, 3.5, 4, 5.4]
+)
+add_body(doc, 'Critical: IVA (21%) is charged ON TOP of the commission rate — a 4% commission on €280k is €11,200 but the seller actually pays €13,552. Always quote the IVA-inclusive figure to sellers to avoid disputes at closing.', bold=True, color=RED)
+
+add_heading(doc, 'Mandate Types: Exclusive vs. Open', 3)
+add_data_table(doc,
+    ['Feature', 'Exclusiva (Exclusive)', 'Abierto (Open)'],
+    [
+        ['Definition', 'One agency has sole right to sell', 'Multiple agencies list simultaneously'],
+        ['Portal investment', 'Full professional photos, video, featured listings', 'Minimal — agent won\'t invest if another sells first'],
+        ['Agent effort', 'Full — agent knows they\'ll be paid', 'Partial — race-to-close mentality'],
+        ['Avg. days on market', '30–45 days (Málaga)', '55–80 days (Málaga)'],
+        ['Price achieved', 'Closer to asking (less urgency discounting)', 'More negotiation, more pressure from multiple agents'],
+        ['Seller control', 'Single point of contact; coordinated strategy', 'Multiple agents, mixed messages, confused buyers'],
+        ['Commission rate', 'Typically 3–4%', 'Typically 5–6% (compensates for lower certainty)'],
+        ['Huspy approach', 'TARGET — pitch exclusiva on every listing', 'Accept short-term but convert to exclusiva within 30 days'],
+    ],
+    col_widths=[4, 6, 6.5]
+)
+
+add_heading(doc, 'Revenue Streams: How an Agency Makes Money', 3)
+add_data_table(doc,
+    ['Revenue Stream', 'Source', 'Typical Amount', 'Frequency', 'Huspy Advantage'],
+    [
+        ['Agency commission (sales)', 'Seller at Escritura', '3–6% + 21% IVA', 'Per transaction', 'Core — agent split 70%'],
+        ['Mortgage origination fee', 'Bank pays on completion', '€1,000–1,500 per mortgage', 'Per mortgage closed', 'Huspy speciality — 25+ bank panel'],
+        ['Insurance referral', 'Insurer pays commission', '€200–400 per policy', 'Per transaction', 'Home insurance mandatory for bank mortgage'],
+        ['Legal / gestoría referral', 'Partner law firm or gestoría', '€150–300 per referral', 'Per transaction', 'Recommended but not mandatory'],
+        ['New build developer fee', 'Developer pays on reservation', '4–8% on new build price', 'Per unit sold', 'Developers pay higher rates — no seller to negotiate with'],
+        ['Rental management', 'Landlord pays monthly', '8–12% of monthly rent', 'Monthly recurring', 'Recurring revenue; Huspy opportunity to build vertical'],
+        ['Rental finding fee', 'Landlord one-off', '1 month\'s rent', 'Per placement', 'Quick transaction; builds landlord relationship'],
+    ],
+    col_widths=[4, 3.5, 3.5, 2.8, 4]
+)
+
+add_heading(doc, 'Portal Dependency: The Idealista Problem', 3)
+add_body(doc, 'The Spanish real estate market has a structural dependency on listing portals — primarily Idealista — that creates both a lead source and a margin risk for agencies.')
+add_data_table(doc,
+    ['Portal', 'Monthly Visits', 'Market Position', 'Cost to Agency', 'Buyer Profile', 'Risk for Huspy'],
+    [
+        ['Idealista', '50M+', '#1 — dominant', '€200–600/month per office', 'All buyer types; 60%+ start here', 'HIGH — if Idealista raises prices, Huspy\'s CAC rises'],
+        ['Fotocasa', '20M+', '#2 — strong', '€100–300/month', 'Spanish domestic buyers', 'MEDIUM'],
+        ['Kyero', '2M+', 'Foreign buyers specialist', '€150–400/month', 'British, Dutch, German buyers', 'LOW — useful for Málaga foreign buyer segment'],
+        ['Rightmove Overseas', '1M+', 'UK buyers specifically', '€100–250/month', 'British buyers', 'LOW — niche but high-ticket Málaga buyers'],
+        ['Pisos.com', '8M+', '#3 nationally', '€80–200/month', 'Price-sensitive domestic', 'LOW'],
+    ],
+    col_widths=[3.5, 2.5, 3, 3.5, 4, 3.5]
+)
+add_body(doc, 'Huspy\'s strategic hedge: mortgage lock-in. Once a buyer uses Huspy for a mortgage pre-approval, they become a Huspy buyer regardless of which portal they found the property on. This partially decouples lead ownership from portal dependency.', italic=True, color=BLUE)
+
+# ── E2. FULL TRANSACTION ECOSYSTEM ───────────────────────────────────────────
+add_heading(doc, 'E2. Full Ecosystem: Every Professional in a Transaction', 2)
+add_body(doc, 'A Spanish real estate transaction involves up to 10 distinct professional roles. Understanding who each one is, what they do, who pays them, and where Huspy intersects is essential knowledge for any operations director.')
+add_data_table(doc,
+    ['Role', 'Spanish Title', 'Who Pays', 'Typical Fee', 'At Which Stage', 'Huspy Touchpoint?'],
+    [
+        ['Real estate agent (seller side)', 'Agente inmobiliario', 'Seller', '3–6% + IVA', 'Valuation → Escritura', 'YES — core Huspy employee/partner'],
+        ['Real estate agent (buyer side)', 'Agente del comprador', 'Seller (same pool)', 'Shared from same commission', 'Search → Arras', 'YES — Huspy agent represents buyer'],
+        ['Mortgage broker', 'Corredor de crédito hipotecario', 'Bank (on completion)', '€1,000–1,500 per mortgage', 'Pre-approval → FEIN', 'YES — Huspy\'s core differentiator'],
+        ['Property lawyer', 'Abogado inmobiliario', 'Buyer (always)', '€1,500–3,000 flat fee', 'Due diligence → Escritura', 'Referral partner opportunity'],
+        ['Notary', 'Notario', 'Buyer + Seller (split)', '€800–1,500 (regulated scale)', 'Escritura signing only', 'Required by law — no flexibility'],
+        ['Official valuer', 'Tasador homologado', 'Buyer (bank requires it)', '€300–800', 'After Arras, before FEIN', 'Ordered by the bank Huspy places'],
+        ['Administrative agency', 'Gestoría', 'Usually buyer', '€300–600 flat fee', 'Post-Escritura', 'Referral partner for post-sale admin'],
+        ['Land registrar', 'Registrador de la Propiedad', 'Buyer', '€400–800 (regulated)', 'Post-Escritura registration', 'Required by law — no flexibility'],
+        ['Home inspector / surveyor', 'Arquitecto técnico / ITE inspector', 'Buyer (optional)', '€300–600', 'Before Arras (recommended)', 'Referral opportunity — low penetration in Spain vs. UK'],
+        ['Insurance broker', 'Corredor de seguros', 'Buyer (annual premium)', '€200–400/year', 'At mortgage closing', 'YES — home insurance mandatory for bank mortgage; Huspy referral fee'],
+        ['Community administrator', 'Administrador de fincas', 'Community (owners)', '€20–50/month per unit', 'Ongoing post-purchase', 'Relevant for investor buyers managing multiple units'],
+    ],
+    col_widths=[3.5, 3.5, 2.5, 3, 3.5, 3.5]
+)
+add_body(doc, 'Key insight: Huspy directly monetises 3 of these 11 roles (agent, mortgage broker, insurance referral) and has referral relationships with 2 more (lawyer, gestoría). A fully integrated Huspy transaction can generate €5,000–6,500 per deal vs. €3,500 for agency-only.', bold=True, color=GREEN)
+
+# ── E3. PRICING DYNAMICS DEEP-DIVE ───────────────────────────────────────────
+add_heading(doc, 'E3. Pricing Dynamics — How Prices Are Set and What Moves Them', 2)
+
+add_heading(doc, 'CMA Methodology: How Agents Set Listing Prices', 3)
+add_body(doc, 'A Comparative Market Analysis (Análisis de Mercado Comparativo) is the standard tool for pricing a listing. A rigorous CMA is the single most important thing an agent does — overpricing kills deals, underpricing destroys seller trust.')
+add_data_table(doc,
+    ['CMA Step', 'What to Do', 'Tool / Source', 'Adjustment Factor'],
+    [
+        ['1. Pull comparables', 'Find 3–5 SOLD properties: same zone, same type, last 6–12 months', 'Registradores.es, Idealista Valoraciones, Tinsa', 'Sold price only — never listed price'],
+        ['2. Calculate base price/m²', 'Sold price ÷ superficie útil (usable area, NOT constructed)', 'Catastro certificate + Nota Simple', 'Spain uses útil, not construida — big difference in apartments'],
+        ['3. Condition adjustment', 'Assess reform requirement honestly', 'Agent inspection + photos', 'Full reform needed: −15 to −20%; updated kitchen/bath: −5%'],
+        ['4. Floor & light premium', 'Higher floors + natural light + views', 'Market data + agent judgement', 'Penthouse vs. ground floor: +10–20% in Málaga city'],
+        ['5. Orientation premium', 'South-facing in Spain = more light = more value', 'Agent site visit', '+5–8% for south-facing in Málaga'],
+        ['6. Parking & storage', 'Garage space + trastero', 'Nota Simple / community registry', 'Parking: +€15k–€25k in city; +€8k in coast'],
+        ['7. Urgency discount', 'Seller timeline affects price strategy', 'Seller interview at valuation', 'Need to sell in <60 days: −5 to −8% to ensure fast close'],
+        ['8. Portal price check', 'Cross-check current active listings', 'Idealista.com live search', 'If zone has 20+ listings, buyer has choice — price sharper'],
+    ],
+    col_widths=[3, 4.5, 4, 5]
+)
+add_body(doc, 'Critical distinction: Superficie útil (usable internal area) vs. superficie construida (constructed area including walls, shared areas). Spanish law requires marketing on útil. A 90m² construida apartment is typically 75–80m² útil. Using the wrong figure makes your CMA wrong by 10–15%.', bold=True, color=RED)
+
+add_heading(doc, 'Pricing by Property Type', 3)
+add_data_table(doc,
+    ['Property Type', 'Spanish Term', 'Avg Price/m² Málaga', 'Avg Price/m² Spain', 'Premium vs. National', 'Key Notes'],
+    [
+        ['City apartment', 'Piso', '€2,950', '€2,311', '+27.7%', 'Most liquid asset class; fastest to sell'],
+        ['Penthouse', 'Ático', '€3,800–5,500', '€2,900', '+30–90%', 'Terrace size is a multiplier; views command 20%+ premium'],
+        ['Townhouse', 'Adosado / Casa adosada', '€2,400', '€1,950', '+23%', 'Popular with families; community fees lower than apartments'],
+        ['Detached villa', 'Chalet / Villa independiente', '€3,500–8,000+', '€2,600', '+35–200%', 'Wide range — plot size, pool, privacy are key value drivers'],
+        ['Ground floor + garden', 'Bajo con jardín', '€2,200–2,600', '€1,900', '+15%', 'Discount vs. upper floors in city; premium on coast (private garden)'],
+        ['New build apartment', 'Obra nueva / Piso de nueva construcción', '€3,500–4,500', '€2,800', '+25–60%', 'Pays IVA 10% (not ITP 7%); higher quality; delivery risk'],
+        ['Commercial premises', 'Local comercial', '€1,800–3,500', '€1,600', '+12–120%', 'High variance; location is everything; lower liquidity'],
+        ['Garage space', 'Plaza de garaje', '€15k–€35k (unit)', '€10k–€20k', '+50–75%', 'Sold separately; high demand in Málaga city centre'],
+    ],
+    col_widths=[3.5, 3.5, 3, 3, 3, 5.5]
+)
+
+add_heading(doc, 'Seasonal Dynamics: When to List, When to Buy', 3)
+add_data_table(doc,
+    ['Quarter', 'Season', 'Market Activity', 'For Sellers', 'For Buyers', 'Costa del Sol Specifics'],
+    [
+        ['Q1 (Jan–Mar)', 'Winter warm-up', 'Supply low, motivated buyers return after holidays', 'Good time to list — less competition from other sellers', 'Motivated buyers; less choice drives stronger offers', 'Foreign buyers from UK/Germany research in Jan; view in Feb–Mar'],
+        ['Q2 (Apr–Jun)', 'Peak season', 'Highest viewings, most new listings, competitive offers', 'Best time to list — maximum buyer pool', 'Most choice but most competition from other buyers', 'Easter triggers viewing surge; foreign buyers plan summer purchase'],
+        ['Q3 (Jul–Aug)', 'Summer divergence', 'Domestic market slows; Costa del Sol accelerates', 'Risky in cities — locals on holiday; less viewings', 'Good for buyers in cities (less competition); difficult on coast', 'INVERSE on Costa: foreign holiday buyers = peak demand Jul–Aug'],
+        ['Q4 (Oct–Dec)', 'Year-end push', 'Motivated sellers accept lower prices to close before year-end', 'Price pressure — motivated sellers compete', 'Best negotiating leverage of the year', 'Foreign buyers return post-summer; Oct–Nov strong for international'],
+    ],
+    col_widths=[2.5, 2.5, 4, 3.5, 3.5, 5]
+)
+add_body(doc, 'Málaga exceptionalism: The Costa del Sol runs almost inverse to the national seasonal pattern. July–August is peak for foreign buyers (holiday viewings), whereas Madrid and Barcelona nearly shut down. This is why Málaga agents must be active in August when mainland agencies take vacaciones.', italic=True, color=BLUE)
+
+add_heading(doc, 'Off-Plan & New Build: Different Rules, Different Dynamics', 3)
+add_data_table(doc,
+    ['Feature', 'Off-Plan / New Build (Obra Nueva)', 'Resale (Segunda Mano)', 'Implication for Huspy'],
+    [
+        ['Transaction tax', 'IVA 10% + AJD 1.2% = 11.2% total', 'ITP 7% (Andalusia)', 'Buyer pays more tax on new build — must budget correctly'],
+        ['Typical price premium', '+10–20% above equivalent resale at launch', 'Market price at time of sale', 'Premium justified by quality, guarantee, no reform needed'],
+        ['Payment structure', '20–30% deposit off-plan; rest at Escritura (delivery)', '10% Arras; 90% at Escritura', 'Buyer needs cash tied up for 18–36 months during construction'],
+        ['Legal guarantee', 'Developer guarantee: 1yr finishing, 3yr habitability, 10yr structure', 'Sold as seen (caveat emptor)', 'New build has stronger consumer protections'],
+        ['Commission rate (for agent)', '4–8% — developer pays; no negotiation with owner', '3–6% — negotiated with seller', 'Higher commission but developer relationship is key gate'],
+        ['Key risk', 'Delivery delays, developer insolvency, quality shortfall', 'Legal issues (debts, liens, illegal additions)', 'Off-plan bank deposits must be legally protected (Law 20/2015)'],
+        ['Mortgage timing', 'Bridge mortgage during construction then full mortgage at delivery', 'Standard mortgage applied at Arras stage', 'More complex mortgage structuring — Huspy advisory value'],
+        ['Huspy opportunity', 'Developer partnership = pipeline of future mortgage clients pre-loaded', 'Standard transaction pipeline', '8,000 new build units expected Málaga 2025 = major pipeline opportunity'],
+    ],
+    col_widths=[4, 5, 4.5, 4]
+)
+
+# ── E4. REAL ESTATE OFFICE: WHO DOES WHAT ────────────────────────────────────
+add_heading(doc, 'E4. Real Estate Office Organisation: Roles, Structure & Compensation', 2)
+add_body(doc, 'Understanding who needs to be inside a real estate office — and how they are compensated — is critical for building a high-performance team and avoiding the legal mistakes that have cost competitors (E&V: €22M fine) significant money.')
+
+add_heading(doc, 'Office Org Chart: Every Role Explained', 3)
+add_data_table(doc,
+    ['Role / Title', 'Spanish Title', 'Reports To', 'Core Responsibility', 'Comp Model', 'Typical Headcount'],
+    [
+        ['Branch Director', 'Director / Gerente de Oficina', 'Regional Director', 'P&L ownership; team hiring & coaching; senior deal support; KPI accountability', 'Base €2,500–3,500/month + override on team performance (1–2% of team GMV)', '1 per office'],
+        ['Senior Agent', 'Agente Senior / Consultor Senior', 'Branch Director', 'Full-cycle independent deals (valuation → Escritura); mentors juniors; handles luxury segment', 'Commission only: 65–75% split; OTE €60k–€120k/year', '2–4 per office'],
+        ['Junior Agent', 'Agente Junior / Consultor', 'Senior Agent or Director', 'Lead follow-up, viewings, buyer qualification; works with mentor for first 6 months', 'Commission only: 50–60% split; OTE €25k–€50k first year; ramp 3–6 months', '3–6 per office'],
+        ['Mortgage Advisor', 'Asesor Hipotecario', 'Regional Mortgage Lead', 'Mortgage intake at offer stage; bank liaison; pre-approvals; FEIN processing', 'Base €1,800–2,500/month + €200–400 per mortgage closed', '1 per 2 offices (shared)'],
+        ['Transaction Coordinator', 'Coordinadora de Operaciones', 'Branch Director', 'Arras to Escritura paperwork; deadline tracking; notary booking; post-sale admin chase', 'Fixed salary €1,600–2,200/month; no commission', '1 per office'],
+        ['Marketing Coordinator', 'Coordinadora de Marketing', 'Regional Marketing or Director', 'Idealista/Fotocasa portal listings; photography coordination; social media; CRM updates', 'Fixed salary €1,500–2,000/month', '1 per 2–3 offices (shared)'],
+        ['Administrative / Reception', 'Administrativo/a / Recepción', 'Branch Director', 'Inbound call handling; viewing scheduling; document filing; client welcome', 'Fixed salary €1,400–1,800/month', '1 per office'],
+        ['Compliance / Legal Officer', 'Responsable de Cumplimiento', 'Operations Director', 'KYC/AML documentation; contract review; GDPR compliance; agent contract management', 'Fixed salary €2,500–3,500/month (often shared across region)', '1 per region'],
+    ],
+    col_widths=[3.5, 3.5, 3, 4, 4, 2.5]
+)
+
+add_heading(doc, 'Compensation Models: The Freelance vs. Employee Decision', 3)
+add_body(doc, 'This is the single most legally sensitive decision in building a real estate team in Spain. Engel & Völkers were fined €22M (TEAC 2023) for misclassifying employees as freelance agents. The distinction has major financial and operational consequences.')
+add_data_table(doc,
+    ['Feature', 'Autónomo (Freelance)', 'Contrato Laboral (Employee)', 'Hybrid Model'],
+    [
+        ['Legal basis', 'Self-employed; issues invoices to agency', 'Full employment contract; agency is employer', 'Employee with variable commission component'],
+        ['Social security', 'Agent pays own cuota autónomos (€294–€530/month)', 'Agency pays 23.6% SS + agent pays 6.4%', 'Agency pays SS; agent receives base + commission'],
+        ['Agency cost (per agent)', 'Commission split only; no SS, no severance', 'SS contribution + holiday pay + severance risk', 'Higher fixed cost but legally safe'],
+        ['Agent earnings', '50–80% commission split; no guarantees', 'Base salary €1,200–1,800 + 30–50% commission split', 'Base €1,000–1,500 + 40–60% commission split'],
+        ['Control over agent', 'LOW — cannot mandate hours, scripts, exclusivity', 'HIGH — can mandate hours, training, exclusivity', 'MEDIUM — must be genuine contract not fake freelance'],
+        ['Risk of misclassification', 'HIGH if agency controls work like an employee', 'ZERO if properly contracted', 'LOW if structured correctly'],
+        ['Used by', 'RE/MAX, Tecnocasa, many independents', 'Growing adoption post E&V fine; Huspy policy', 'Emerging best practice in Spain'],
+        ['Huspy position', 'Avoid — legal and cultural risk', 'Preferred model for compliance', 'Acceptable for senior agents with genuine autonomy'],
+    ],
+    col_widths=[4, 5, 5, 5]
+)
+add_body(doc, 'The E&V case (TEAC resolution 2023): Inspectors found agents were working fixed hours in E&V offices, using E&V systems, wearing E&V uniforms — yet classified as autónomos. The court ruled this was an employment relationship. Fine: €22M back SS contributions + penalties. Any agency replicating this model faces the same exposure.', bold=True, color=RED)
+
+add_heading(doc, 'Agent Economics: What Does a Huspy Agent Actually Earn?', 3)
+add_data_table(doc,
+    ['Scenario', 'Txns/Month', 'Avg Ticket', 'Commission (4%)', 'Agent Split (70%)', 'Mortgage Attach (40%)', 'Agent Monthly OTE', 'Annual OTE'],
+    [
+        ['Starting agent (ramp)', '0.5', '€240,000', '€9,600 gross', '€6,720 net', '+€200 avg', '~€6,920', '~€83k'],
+        ['Productive agent', '1.0', '€265,000', '€10,600 gross', '€7,420 net', '+€400 avg', '~€7,820', '~€94k'],
+        ['Strong performer', '1.5', '€280,000', '€11,200 gross', '€7,840 net', '+€600 avg', '~€8,440', '~€101k'],
+        ['Top performer', '2.0', '€300,000', '€12,000 gross', '€8,400 net', '+€800 avg', '~€9,200', '~€110k'],
+        ['Luxury specialist (Marbella)', '1.0', '€600,000', '€24,000 gross', '€16,800 net', '+€600 avg', '~€17,400', '~€209k'],
+    ],
+    col_widths=[4, 2.5, 2.5, 3, 3, 3, 3, 2.5]
+)
+add_body(doc, 'Mortgage attach is the multiplier. Every deal where the buyer uses a Huspy mortgage adds €400–800 to the agent\'s income at zero extra work. Training every agent to position the Huspy mortgage pre-approval at the first buyer meeting is the highest-ROI activity in the entire operation.', bold=True, color=GREEN)
+
+add_heading(doc, 'Recruiting & Onboarding: What Makes a High-Performing Agent', 3)
+add_data_table(doc,
+    ['Profile Factor', 'Green Flag', 'Red Flag', 'Huspy Priority Weight'],
+    [
+        ['Language skills', 'English + Spanish fluent; German/French a bonus', 'Spanish only in a 40% foreign-buyer market', 'HIGH — Málaga foreign buyer segment requires it'],
+        ['Track record', '6+ closed deals in last 12 months at prior agency', 'No verifiable closed transactions', 'HIGH — commission-only roles need prior proof'],
+        ['Network / book of business', 'Existing seller contacts; lawyer/investor network', 'Starting from zero with no warm contacts', 'MEDIUM — network accelerates first 90 days'],
+        ['Tech adoption', 'Uses CRM proactively; comfortable with digital tools', 'Resists CRM; relies only on phone and WhatsApp', 'HIGH — Huspy platform adoption is non-negotiable'],
+        ['Mortgage literacy', 'Can explain FEIN, Euribor, LTV to a client', 'Cannot explain the difference between fixed and variable rate', 'HIGH — mortgage attach depends on agent credibility'],
+        ['Motivation fit', 'Intrinsically motivated; entrepreneur mindset', 'Expects a salary with no performance accountability', 'HIGH — commission model requires self-driven profile'],
+        ['Compliance awareness', 'Understands AML obligations, GDPR, source of funds', 'No awareness of KYC or money laundering red flags', 'MEDIUM-HIGH — Huspy operates to bank compliance standards'],
+    ],
+    col_widths=[3.5, 5, 4.5, 5.5]
+)
+doc.add_paragraph()
+
+# ══════════════════════════════════════════════════════════════════════════════
 # SPANISH TERMINOLOGY GLOSSARY
 # ══════════════════════════════════════════════════════════════════════════════
 doc.add_page_break()
